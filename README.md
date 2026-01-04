@@ -22,15 +22,9 @@ When I'm not coding, I'm probably learning a new framework or diving into graphi
 
 ---
 
-## Recent Achievements
-
-![trophy](https://github-profile-trophy.vercel.app/?username=RS-Wave&theme=darkhub&row=1&column=6)
-
----
-
 ## Featured Work
 
-Check out my pinned repositories below for some of my favorite projects.
+Check out my repositories below.
 
 ---
 
