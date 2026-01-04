@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hey there 👋, I'm RS-Wave
 
-<!--
-**RS-Wave/RS-Wave** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**developer with a passion for building things (Especially when it bypasses something.)**
 
-Here are some ideas to get you started:
+![Profile views](https://komarev.com/ghpvc/?username=RS-Wave&color=blueviolet&style=flat-square)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## About Me
+
+I'm a developer who enjoys working across the stack—from backend architecture to frontend interfaces. I spend most of my time experimenting with new technologies and building projects that solve real problems.
+
+When I'm not coding, I'm probably learning a new framework or diving into graphics programming.
+
+**Currently exploring:** Anti Cheat, an ia training
+
+---
+
+## GitHub Stats
+
+![RS-Wave GitHub stats](https://github-readme-stats.terrainwax.vercel.app/api?username=RS-Wave&show_icons=true&theme=tokyonight&count_private=true)
+
+---
+
+## Recent Achievements
+
+![trophy](https://github-profile-trophy.vercel.app/?username=RS-Wave&theme=darkhub&row=1&column=6)
+
+---
+
+## Featured Work
+
+Check out my pinned repositories below for some of my favorite projects.
+
+---
+
+## Get in Touch
+
+**Discord:** rs_wave
+
+Feel free to ask ur question
+
+---
+
+*Thanks for stopping by! If you find something interesting, consider dropping a star <-⭐->*
